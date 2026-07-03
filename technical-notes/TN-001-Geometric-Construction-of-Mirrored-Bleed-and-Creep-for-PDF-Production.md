@@ -54,7 +54,7 @@ The method has been successfully tested over an exceptionally wide operating ran
 
 ### Validated Dimension Range
 
-- **0.1 mm** to **30.000 mm**
+- **0.1 mm** to **25.000 mm**
 
 ### Validated Scale Range
 
