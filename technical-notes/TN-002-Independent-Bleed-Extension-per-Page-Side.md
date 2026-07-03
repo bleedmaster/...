@@ -67,6 +67,8 @@ The system therefore supports:
 
 The method has been successfully validated using independently configurable parameters for all four page sides.
 
+All tested parameter combinations produced perfect strip-to-corner continuity. The corner elements always matched the adjoining bleed strips exactly, independent of the individual settings assigned to each page side.
+
 ## Validated Parameter Range
 
 ### Bleed Width
