@@ -1,12 +1,12 @@
 # Technical Note TN-002
 
-## Independent Bleed Extension per Page Side
+## Asynchronous Independent Bleed Geometry
 
 **Project:** BleedMaster  
 **Author:** Frank Wurtz  
 **First publication:** July 2026  
 **Status:** Public  
-**Version:** 1.0
+**Version:** 1.1
 
 **Email:** datensicherung.mtb@gmail.com
 
@@ -14,76 +14,111 @@
 
 # Introduction
 
-Technical Note TN-001 introduced a new approach to seamless bleed generation by preserving continuous visual appearance beyond the trim edge.
+Technical Note TN-001 introduced a new geometric approach to seamless bleed generation by preserving continuous visual appearance beyond the trim edge.
 
 Further development of the same geometric foundation has resulted in an additional capability that significantly extends the flexibility of professional bleed generation.
 
-BleedMaster is no longer limited to applying identical bleed behaviour on all four page sides.
+BleedMaster is no longer limited to applying identical bleed behaviour around the complete page. Every page side can now operate independently while maintaining seamless visual continuity throughout the entire bleed construction.
 
 ---
 
-## The Long-Standing Limitation
+# The Long-Standing Limitation
 
-Traditional bleed generation applies identical processing around the complete page.
+Conventional bleed generation generally applies identical processing around the complete page.
 
-Even when different bleed widths are supported, the underlying image transformation generally remains uniform. Independent behaviour for each individual page side introduces additional geometric complexity, particularly within the corner regions where two independently processed bleed strips meet.
+Although different bleed widths may be supported, the underlying image transformation usually remains uniform across all four sides. Independent behaviour for each page side introduces considerably greater geometric complexity, particularly in the corner regions where two independently processed bleed strips meet.
 
-Maintaining visually seamless corner continuity under these conditions has remained an unresolved challenge.
+When every side is allowed to use different geometric parameters, maintaining perfectly continuous corner transitions becomes increasingly difficult. In practice this has traditionally required compromises or limitations.
 
 ---
 
-## A New Result
+# A New Result
 
-BleedMaster introduces a fundamentally different approach.
+BleedMaster introduces a fundamentally different geometric approach.
 
-To the best of our knowledge, this is the first publicly documented solution capable of producing:
+To the best of our knowledge, this is the first publicly documented solution capable of producing completely asynchronous bleed construction.
+
+Each page side can independently define:
+
+- bleed width,
+- scaling percentage,
+- stretching factor,
+- mirroring behaviour,
+
+without imposing any dependency on the remaining three page sides.
+
+The corner geometry automatically adapts itself so that the complete bleed construction always remains geometrically closed while preserving continuous visual appearance.
+
+The system therefore supports:
 
 - independently configurable **top** bleed,
 - independently configurable **bottom** bleed,
 - independently configurable **left** bleed,
 - independently configurable **right** bleed,
-- visually seamless corner continuity,
-- consistent results using independent **scaling**,
-- consistent results using independent **stretching**, and
-- consistent results using independent **mirroring**.
-
-Each page side can operate completely independently while preserving a continuous visual appearance throughout the complete bleed construction.
+- independent scaling on every page side,
+- independent stretching on every page side,
+- independent mirroring on every page side,
+- automatic corner reconstruction,
+- seamless strip-to-corner continuity.
 
 ---
 
-## Validation
+# Validation
 
 The method has been successfully validated using independently configurable parameters for all four page sides.
 
-### Validated Configuration Range
+## Validated Parameter Range
 
-- independent **Top** configuration
-- independent **Bottom** configuration
-- independent **Left** configuration
-- independent **Right** configuration
+### Bleed Width
 
-All tested combinations maintained continuous visual corner transitions without introducing visible discontinuities.
+- **0.1 mm** to **10,000 mm** per individual page side
 
-The underlying concept is scalable beyond these validated configurations.
+### Scaling
+
+- **0.00001 %** to **250,000 %** per individual page side
+
+All tested combinations maintained perfectly continuous transitions between bleed strips and corner geometry.
+
+No visible discontinuities were introduced, regardless of the individual parameter values assigned to each page side.
 
 ---
 
-## Technical Disclosure
+# Theoretical Scalability
+
+The underlying geometric model itself is scale-independent.
+
+The construction remains mathematically identical regardless of the chosen dimensions or scaling factors.
+
+Practical limits are determined only by software implementation, numerical precision and available system resources rather than by the geometry itself.
+
+---
+
+# Technical Disclosure
 
 This Technical Note documents the existence of the achieved result.
 
-The underlying geometry, mathematical principles and implementation remain intentionally undisclosed. Only the achieved capabilities and validated results are presented in this publication.
+The underlying geometry, mathematical principles, algorithms and implementation remain intentionally undisclosed.
+
+Only the demonstrated capabilities and validated behaviour are presented in this publication.
 
 ---
 
-## Conclusion
+# Conclusion
 
-BleedMaster extends seamless bleed generation beyond uniform page-wide processing.
+BleedMaster extends seamless bleed generation beyond traditional symmetric page-wide processing.
 
-Independent bleed behaviour can now be applied to every individual page side while preserving seamless visual continuity throughout the complete bleed construction.
+Every page side can now operate completely independently while the geometric engine automatically reconstructs the corner regions to preserve a fully closed and visually continuous bleed construction.
 
-This Technical Note documents an additional capability of the BleedMaster geometric engine while intentionally withholding the underlying implementation for future technical publications.
+The introduction of asynchronous page-side geometry significantly expands the flexibility of professional PDF prepress workflows while intentionally withholding the underlying geometric principles for future technical publications.
 
 ---
 
-**Keywords:** independent bleed, asymmetric bleed, seamless bleed, corner continuity, scaling, stretching, mirroring, geometric bleed generation, prepress, PDF production, RIP, CTP.
+## Keywords
+
+**asynchronous bleed**, **independent bleed**, **asymmetric bleed**, **seamless bleed**, **corner continuity**, **strip-to-corner continuity**, **geometric bleed generation**, **scaling**, **stretching**, **mirroring**, **prepress**, **PDF production**, **RIP**, **CTP**
+
+---
+
+**Copyright © 2026 Frank Wurtz.**
+
+This Technical Note may be freely distributed in its original, unmodified form. The geometric principles, algorithms and implementation described by implication remain proprietary to the BleedMaster project.
