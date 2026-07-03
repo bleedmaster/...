@@ -119,6 +119,22 @@ The introduction of asynchronous page-side geometry significantly expands the fl
 
 ---
 
-**Copyright © 2026 Frank Wurtz.**
+## Disclaimer
 
-This Technical Note may be freely distributed in its original, unmodified form. The geometric principles, algorithms and implementation described by implication remain proprietary to the BleedMaster project.
+This publication documents the existence and validated capabilities of the described technology.
+
+No part of this Technical Note discloses the underlying geometric principles, mathematical models, algorithms, implementation methods or source code used within the BleedMaster engine.
+
+Nothing contained in this publication shall be interpreted as granting any license, permission or right to reproduce, implement, reverse engineer or derive the undisclosed technology.
+
+The disclosed functionality is presented solely for scientific, technical and historical documentation purposes.
+
+---
+
+## Copyright
+
+Copyright © 2026 Frank Wurtz.
+
+This Technical Note may be freely copied and distributed only in its complete and unmodified form, including this copyright notice and all disclaimers.
+
+BleedMaster is a software project developed by Frank Wurtz. All rights reserved.
