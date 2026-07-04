@@ -1,6 +1,4 @@
-<p align="left">
-  <img src="BleedMaster_Logo.png" alt="BleedMaster Logo" width="550">
-</p>
+<img src="BleedMaster_Logo.png" width="60%">
 
 ## Technical Notes
 
