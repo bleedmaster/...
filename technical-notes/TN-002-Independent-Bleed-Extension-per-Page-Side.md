@@ -14,9 +14,9 @@
 
 # Introduction
 
-Technical Note TN-001 introduced a new geometric approach to seamless bleed generation by preserving continuous visual appearance beyond the trim edge.
+Technical Note TN-001 introduced a new approach to seamless bleed generation by preserving continuous visual appearance beyond the trim edge.
 
-Further development of the same geometric foundation has resulted in an additional capability that significantly extends the flexibility of professional bleed generation.
+Further development of the same foundation has resulted in an additional capability that significantly extends the flexibility of professional bleed generation.
 
 BleedMaster is no longer limited to applying identical bleed behaviour around the complete page. Every page side can now operate independently while maintaining seamless visual continuity throughout the entire bleed construction.
 
@@ -28,13 +28,13 @@ Conventional bleed generation generally applies identical processing around the 
 
 Although different bleed widths may be supported, the underlying image transformation usually remains uniform across all four sides. Independent behaviour for each page side introduces considerably greater geometric complexity, particularly in the corner regions where two independently processed bleed strips meet.
 
-When every side is allowed to use different geometric parameters, maintaining perfectly continuous corner transitions becomes increasingly difficult. In practice this has traditionally required compromises or limitations.
+When every side is allowed to use different mathematical parameters, maintaining perfectly continuous corner transitions becomes increasingly difficult. In practice this has traditionally required compromises or limitations.
 
 ---
 
 # A New Result
 
-BleedMaster introduces a fundamentally different geometric approach.
+BleedMaster introduces a fundamentally different approach.
 
 To the best of our knowledge, this is the first publicly documented solution capable of producing completely asynchronous bleed construction.
 
@@ -47,7 +47,7 @@ Each page side can independently define:
 
 without imposing any dependency on the remaining three page sides.
 
-The corner geometry automatically adapts itself so that the complete bleed construction always remains geometrically closed while preserving continuous visual appearance.
+The corner physics automatically adapts itself so that the complete bleed construction always remains geometrically closed while preserving continuous visual appearance.
 
 The system therefore supports:
 
@@ -87,7 +87,7 @@ No visible discontinuities were introduced, regardless of the individual paramet
 
 # Theoretical Scalability
 
-The underlying geometric model itself is scale-independent.
+The underlying implementation model itself is scale-independent.
 
 The construction remains mathematically identical regardless of the chosen dimensions or scaling factors.
 
