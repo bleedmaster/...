@@ -2,8 +2,6 @@
   <img src="BleedMaster_Logo.png" alt="BleedMaster Logo" width="550">
 </p>
 
-BleedMaster is a PDF production engine focused on extended methods for bleed, creep and automated print workflows.  
-
 ## Technical Notes
 
 # Solution of broken Bleed and Creep for PDF Production
