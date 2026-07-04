@@ -1,7 +1,6 @@
-<p align="center">
-  <img src="BleedMaster_Logo.png" alt="BleedMaster Logo" width="900">
+<p align="left">
+  <img src="BleedMaster_Logo.png" alt="BleedMaster Logo" width="550">
 </p>
-# BleedMaster
 
 BleedMaster is a PDF production engine focused on extended methods for bleed, creep and automated print workflows.  
 
