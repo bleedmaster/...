@@ -2,10 +2,10 @@
 
 ## A New Approach to Seamless Bleed Generation
 
-**Project:** BleedMaster
-**Author:** Frank Wurtz
-**First publication:** June 2026
-**Status:** Public
+**Project:** BleedMaster  
+**Author:** Frank Wurtz  
+**First publication:** June 2026  
+**Status:** Public  
 **Version:** 1.1
 
 **Email:** [datensicherung.mtb@gmail.com](mailto:datensicherung.mtb@gmail.com)
