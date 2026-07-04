@@ -89,7 +89,7 @@ The validated parameter ranges represent actual production tests rather than the
 
 # Theoretical Scalability
 
-The underlying implementation is scale-independent.
+The underlying mathematical model is scale-independent.
 
 The construction behaves identically regardless of the chosen dimensions or scaling factors.
 
