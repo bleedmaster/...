@@ -68,7 +68,7 @@ The underlying concept is scalable beyond these tested limits.
 
 This Technical Note documents the existence of the achieved result.
 
-The underlying geometry, mathematical principles and implementation remain intentionally undisclosed. Only the achieved capabilities and validated results are presented in this publication.
+The underlying mathematical principles and implementation remain intentionally undisclosed. Only the achieved capabilities and validated results are presented in this publication.
 
 ---
 
