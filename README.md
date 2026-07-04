@@ -2,7 +2,7 @@
 
 BleedMaster is a PDF production engine focused on extended methods for bleed, creep and automated print workflows.  
 
-# Technical Note TN-001
+# Technical Notes
 
 # Solution of broken Bleed and Creep for PDF Production
 
