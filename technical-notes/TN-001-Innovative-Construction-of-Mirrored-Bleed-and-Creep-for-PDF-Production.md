@@ -1,3 +1,4 @@
+```markdown
 # Technical Note TN-001
 
 ## A New Approach to Seamless Bleed Generation
@@ -8,11 +9,11 @@
 **Status:** Public  
 **Version:** 1.0
 
-**Email:** datensicherung.mtb@gmail.com 
+**Email:** datensicherung.mtb@gmail.com
 
 ---
 
-# Introduction
+## Introduction
 
 Bleed generation has been an essential part of professional print production since the beginning of the graphic arts industry.
 
@@ -40,9 +41,9 @@ To the best of our knowledge, this is the first publicly documented solution cap
 
 - visually seamless bleed strips,
 - visually seamless corner continuity,
-- consistent results using **scaling**,
-- consistent results using **stretching**, and
-- consistent results using **mirroring**.
+- consistent results with **scaling**,
+- consistent results with **stretching**, and
+- consistent results with **mirroring**.
 
 The result is a continuous visual appearance beyond the trim edge while preserving the integrity of the original page content.
 
@@ -50,17 +51,19 @@ The result is a continuous visual appearance beyond the trim edge while preservi
 
 ## Validation
 
-The method has been successfully tested over an exceptionally wide operating range.
+The method has been successfully validated over an exceptionally wide operating range.
 
 ### Validated Dimension Range
 
-- **0.1 mm** to **25.000 mm**
+- **0.1 mm** to **25,000 mm**
 
 ### Validated Scale Range
 
-- **0.0001 %** to **more than 250.000 %**
+- **0.0001 %** to **more than 250,000 %**
 
-The underlying concept is scalable beyond these tested limits.
+All tested combinations maintained seamless visual continuity throughout the complete bleed construction.
+
+The underlying implementation is inherently scale-independent and is expected to remain valid beyond the tested operating range.
 
 ---
 
@@ -68,7 +71,9 @@ The underlying concept is scalable beyond these tested limits.
 
 This Technical Note documents the existence of the achieved result.
 
-The underlying mathematical principles and implementation remain intentionally undisclosed. Only the achieved capabilities and validated results are presented in this publication.
+The underlying mathematical concepts, implementation methods, algorithms and source code remain intentionally undisclosed.
+
+Only the demonstrated capabilities and validated behaviour are presented in this publication.
 
 ---
 
@@ -76,14 +81,33 @@ The underlying mathematical principles and implementation remain intentionally u
 
 BleedMaster represents a new approach to a problem that has existed since the beginning of the graphic arts industry.
 
-This Technical Note serves as the first public documentation of the achieved result while intentionally withholding the implementation itself for future technical publications.
+This Technical Note serves as the first public documentation of the achieved result while intentionally withholding the implementation details for future technical publications.
 
 ---
 
-**Keywords:** bleed generation, seamless bleed, corner continuity, mirrored bleed, scaling, stretching, mirroring, prepress, PDF production, RIP, CTP.
+## Keywords
 
+**bleed generation**, **seamless bleed**, **corner continuity**, **mirrored bleed**, **scaling**, **stretching**, **mirroring**, **prepress**, **PDF production**, **RIP**, **CTP**
 
+---
 
+## Disclaimer
 
+This publication documents the existence and validated capabilities of the described technology.
 
+No part of this Technical Note discloses the underlying mathematical concepts, implementation methods, algorithms or source code used within the BleedMaster engine.
 
+Nothing contained in this publication shall be interpreted as granting any license, permission or right to reproduce, implement, reverse engineer or derive the undisclosed technology.
+
+The disclosed functionality is presented solely for scientific, technical and historical documentation purposes.
+
+---
+
+## Copyright
+
+Copyright © 2026 Frank Wurtz.
+
+This Technical Note may be freely copied and distributed only in its complete and unmodified form, including this copyright notice and all disclaimers.
+
+BleedMaster is a software project developed by Frank Wurtz. All rights reserved.
+```
