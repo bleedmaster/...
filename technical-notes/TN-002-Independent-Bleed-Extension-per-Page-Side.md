@@ -99,7 +99,7 @@ Practical limits are determined only by software implementation, numerical preci
 
 This Technical Note documents the existence of the achieved result.
 
-The underlying mathematical concepts, implementation methods, algorithms and source code remain intentionally undisclosed.
+The underlying mathematical concepts, implementation methods, algorithms and source code remain intentionally undisclosed, including the mathematical models, computational procedures and implementation architecture.
 
 Only the demonstrated capabilities and validated behaviour are presented in this publication.
 
