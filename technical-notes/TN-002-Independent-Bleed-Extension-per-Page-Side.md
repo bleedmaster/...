@@ -26,7 +26,7 @@ BleedMaster is no longer limited to applying identical bleed behaviour around th
 
 Conventional bleed generation generally applies identical processing around the complete page.
 
-Although different bleed widths may be supported, the underlying image transformation usually remains uniform across all four sides. Independent behaviour for each page side introduces considerably greater implementation complexity, particularly in the corner regions where two independently processed bleed strips meet.
+Although different bleed widths may be supported, the underlying image transformation usually remains uniform across all four sides. Independent mirroring parameters for each page side introduces considerably greater implementation complexity, particularly in the corner regions where two independently processed bleed strips meet.
 
 When every side is allowed to use different mathematical parameters, maintaining perfectly continuous corner transitions becomes increasingly difficult. In practice this has traditionally required compromises or limitations.
 
