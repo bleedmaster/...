@@ -1,6 +1,6 @@
 # Technical Note TN-002
 
-## Asynchronous Independent Bleed Geometry
+## Asynchronous Independent Bleed Implementation
 
 **Project:** BleedMaster  
 **Author:** Frank Wurtz  
