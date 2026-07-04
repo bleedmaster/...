@@ -2,10 +2,10 @@
 
 ## Asynchronous Independent Bleed Implementation
 
-**Project:** BleedMaster
-**Author:** Frank Wurtz
-**First publication:** July 2026
-**Status:** Public
+**Project:** BleedMaster  
+**Author:** Frank Wurtz  
+**First publication:** July 2026  
+**Status:** Public  
 **Version:** 1.1
 
 **Email:** [datensicherung.mtb@gmail.com](mailto:datensicherung.mtb@gmail.com)
