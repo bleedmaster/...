@@ -54,7 +54,7 @@ The method has been successfully tested over an exceptionally wide operating ran
 
 ## Validated Parameter Range
 
-* **0.1 mm** to **25000 mm** per individual page side
+* **0.1 mm** to **25,000 mm** per individual page side
 
 ### Validated Scale Range
 
