@@ -83,6 +83,8 @@ All tested combinations maintained perfectly continuous transitions between blee
 
 No visible discontinuities were introduced, regardless of the individual parameter values assigned to each page side.
 
+The validated parameter ranges represent actual production tests rather than theoretical calculations.
+
 ---
 
 # Theoretical Scalability
