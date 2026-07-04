@@ -17,7 +17,7 @@
 PDF in.<br>
 PDF out.<br>
 
-Powerful in RIP and CTP.
+Built for RIP and CTP.
 
 No theoretical creep.<br>
 No broken bleeds<br>
