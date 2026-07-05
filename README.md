@@ -2,7 +2,7 @@
 
 ## Technical Notes
 
-# Deterministic Solution of broken Bleed and Creep for PDF Production
+# Deterministic Solution for Broken Bleed and Creep in PDF Production
 
 **Project:** BleedMaster  
 **Author:** Frank Wurtz  
