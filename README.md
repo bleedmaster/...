@@ -1,8 +1,8 @@
 <img src="BleedMaster_Logo.png" width="60%">
 
-## Technical Notes
+## Technical Notes on Deterministic Reproduction
 
-# Deterministic Solution for Broken Bleed and Creep in PDF Production
+# Solution for Broken Bleed and Creep in PDF Production
 
 **Project:** BleedMaster  
 **Author:** Frank Wurtz  
