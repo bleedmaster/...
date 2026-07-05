@@ -73,7 +73,7 @@ All tested parameter combinations produced perfect strip-to-corner continuity. T
 
 ### Bleed Width
 
-* **0.1 mm** to **10,000 mm** per individual page side
+* **0.001 mm** to **10,000 mm** per individual page side
 
 ### Scaling
 
