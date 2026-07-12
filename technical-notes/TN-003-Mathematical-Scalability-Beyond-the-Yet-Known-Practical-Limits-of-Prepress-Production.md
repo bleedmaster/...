@@ -12,7 +12,7 @@
 
 ---
 
-### Abstract
+# Abstract
 
 BleedMaster has been designed as a mathematically deterministic prepress engine whose supported operating ranges intentionally exceed the yet-known practical limits of prepress production.
 
@@ -20,7 +20,7 @@ The published operating ranges represent validated engineering specifications ra
 
 ---
 
-## Engineering Philosophy
+# Engineering Philosophy
 
 The objective of BleedMaster is not merely to satisfy current production requirements, but to provide a mathematically stable platform that remains applicable as printing technologies continue to evolve.
 
@@ -28,7 +28,7 @@ Consequently, all supported operating ranges have been selected to significantly
 
 ---
 
-## Supported Operating Ranges
+# Supported Operating Ranges
 
 The following operating ranges are fully supported by the BleedMaster engine.
 
@@ -49,7 +49,7 @@ The published operating ranges were selected as practical engineering limits tha
 
 ---
 
-## Validation
+# Validation
 
 The BleedMaster engine has been subjected to extensive internal stress testing over operating ranges significantly exceeding its published specification.
 
@@ -57,7 +57,7 @@ These validation procedures confirmed mathematically consistent geometric behavi
 
 ---
 
-## Design Objective
+# Design Objective
 
 BleedMaster has been designed as a future-oriented engineering platform rather than a solution limited to today's production requirements.
 
@@ -65,7 +65,7 @@ Its published operating ranges therefore represent validated engineering specifi
 
 ---
 
-## Conclusion
+# Conclusion
 
 BleedMaster provides mathematically deterministic bleed construction throughout its supported operating specification.
 
