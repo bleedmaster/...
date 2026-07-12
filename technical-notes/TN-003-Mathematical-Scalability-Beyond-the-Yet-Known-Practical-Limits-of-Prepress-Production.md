@@ -66,3 +66,23 @@ The selected operating ranges intentionally exceed the yet-known practical limit
 #### Keywords
 
 > mathematical scalability, computational mathematics, engineering mathematics, mathematical modelling, deterministic geometry, computational geometry, image scaling, image transformation, print production, prepress production, printing technology, engineering specifications, deterministic algorithms, geometric modelling, mathematical framework, computational methods, proprietary algorithms, software engineering, digital prepress, PDF production
+>
+> ---
+
+## Disclaimer
+
+This Technical Note documents the existence, validated engineering characteristics and published operating specifications of the described technology.
+
+No part of this publication discloses the underlying mathematical concepts, implementation methods, proprietary algorithms or source code used within the BleedMaster engine.
+
+The supported operating ranges presented in this publication represent validated engineering specifications and shall not be interpreted as mathematical limitations of the underlying proprietary technology.
+
+Nothing contained in this publication shall be interpreted as granting any license, permission or right to reproduce, implement, reverse engineer, derive or commercially exploit the undisclosed technology.
+
+This publication is provided solely for scientific, technical and historical documentation purposes.
+
+---
+
+## Copyright
+
+Copyright © 2026 Frank Würtz. All rights reserved.
