@@ -32,7 +32,7 @@ When every side is allowed to use different mathematical parameters, maintaining
 
 ---
 
-# A New #Result
+## A New Result
 
 BleedMaster introduces a fundamentally different approach.
 
