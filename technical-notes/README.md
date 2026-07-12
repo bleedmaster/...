@@ -14,6 +14,6 @@ Additional Technical Notes will be released as the BleedMaster project evolves.
 
 ---
 
-#### Keywords
+#### Technical Keywords
 
 computational mathematics, mathematical modelling, geometric modelling, algorithm design, computational geometry, prepress automation, PDF production, image transformation, page construction, print production, print workflow, printing technology, engineering mathematics, computational methods, proprietary algorithms, deterministic algorithms, software engineering, digital prepress, PDF automation
