@@ -49,10 +49,31 @@ To the best of our knowledge, this is the first publicly documented solution tha
 
 ---
 
+# Publicly Documented Engineering Achievements
+
+The BleedMaster Technical Notes document a series of engineering developments addressing long-standing limitations in PDF prepress production.
+
+The published work currently demonstrates:
+
+- Seamless bleed continuity between bleed strips and corner regions.
+- Independent asynchronous bleed generation for each page side.
+- Deterministic behaviour for both pixel-based and vector-based image data.
+- Engineering operating ranges intentionally exceeding the yet-known practical limits of prepress production.
+- Mathematical operating specifications designed for future printing technologies.
+- Stable geometric reproduction throughout the supported operating ranges.
+
+The publications intentionally describe validated engineering characteristics while withholding the proprietary mathematical concepts and implementation methods used by the BleedMaster engine.
+
+---
+
 ## Technical Notes
 
-For complete technical documentation, please visit:
+Currently available:
 
-**[BleedMaster Technical Notes](https://bleedmaster.com/technical-notes/)**
+- **TN-001** — Innovative Construction of Mirrored Bleed and Creep for PDF Production
+- **TN-002** — Independent Bleed Extension per Page Side
+- **TN-003** — Mathematical Scalability Beyond the Yet-Known Practical Limits of Prepress Production
+
+Additional Technical Notes will be released as the BleedMaster project evolves.
 
 ---
