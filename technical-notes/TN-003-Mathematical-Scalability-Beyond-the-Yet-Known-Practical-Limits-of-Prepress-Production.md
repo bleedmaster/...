@@ -2,6 +2,16 @@
 
 ## Mathematical Scalability Beyond the Yet-Known Practical Limits of Prepress Production
 
+**Project:** BleedMaster  
+**Author:** Frank Würtz  
+**First publication:** July 2026  
+**Status:** Public  
+**Version:** 1.0
+
+**Email:** datensicherung.mtb@gmail.com
+
+---
+
 ### Abstract
 
 BleedMaster has been designed as a mathematically deterministic prepress engine whose supported operating ranges intentionally exceed the yet-known practical limits of prepress production.
