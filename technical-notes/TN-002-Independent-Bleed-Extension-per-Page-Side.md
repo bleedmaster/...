@@ -141,4 +141,4 @@ This publication is provided solely for scientific, technical and historical doc
 
 ### Copyright
 
-Copyright © 2026 Frank Würtz. All rights reserved.
+Copyright © 2026 Frank Wurtz. All rights reserved.
