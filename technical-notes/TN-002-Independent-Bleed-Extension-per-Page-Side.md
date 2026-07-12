@@ -22,7 +22,7 @@ BleedMaster is no longer limited to applying identical bleed behaviour around th
 
 ---
 
-# The Long-Standing Limitation
+## The Long-Standing Limitation
 
 Conventional bleed generation generally applies identical processing around the complete page.
 
@@ -32,7 +32,7 @@ When every side is allowed to use different mathematical parameters, maintaining
 
 ---
 
-# A New Result
+# A New #Result
 
 BleedMaster introduces a fundamentally different approach.
 
@@ -63,19 +63,19 @@ The system therefore supports:
 
 ---
 
-# Validation
+## Validation
 
 The method has been successfully validated using independently configurable parameters for all four page sides.
 
 All tested parameter combinations produced perfect strip-to-corner continuity. The corner elements always matched the adjoining bleed strips exactly, independent of the individual settings assigned to each page side.
 
-## Validated Parameter Range
+### Validated Parameter Range
 
-### Bleed Width
+#### Bleed Width
 
 * **0.001 mm** to **10,000 mm** per individual page side
 
-### Scaling
+#### Scaling
 
 * **0.00001 %** to **250,000 %** per individual page side
 
@@ -87,7 +87,7 @@ The validated parameter ranges represent actual production tests rather than the
 
 ---
 
-# Theoretical Scalability
+## Theoretical Scalability
 
 The underlying mathematical model is scale-independent.
 
@@ -97,7 +97,7 @@ Practical limits are determined only by software implementation, numerical preci
 
 ---
 
-# Technical Disclosure
+## Technical Disclosure
 
 This Technical Note documents the existence of the achieved result.
 
@@ -107,13 +107,15 @@ Only the demonstrated capabilities and validated behaviour are presented in this
 
 ---
 
-# Conclusion
+## Conclusion
 
 BleedMaster extends seamless bleed generation beyond traditional symmetric page-wide processing.
 
 Every page side can now operate completely independently while the internal engine automatically reconstructs the corner regions to preserve a fully closed and visually continuous bleed construction.
 
 The introduction of asynchronous page-side processing significantly expands the flexibility of professional PDF prepress workflows while intentionally withholding the underlying implementation details for future technical publications.
+
+The presented construction principle is independent of the underlying graphical representation and is therefore applicable to both pixel-based and vector-based image data.
 
 ---
 
@@ -123,7 +125,7 @@ The introduction of asynchronous page-side processing significantly expands the 
 
 ---
 
-## Disclaimer
+### Disclaimer
 
 This Technical Note documents the existence, validated engineering characteristics and published operating specifications of the described technology.
 
@@ -137,6 +139,6 @@ This publication is provided solely for scientific, technical and historical doc
 
 ---
 
-## Copyright
+### Copyright
 
 Copyright © 2026 Frank Würtz. All rights reserved.
