@@ -68,11 +68,13 @@ The publications intentionally describe validated engineering characteristics wh
 
 ## Technical Notes
 
-Currently available:
+The following Technical Notes are currently available:
 
-- **TN-001** — Innovative Construction of Mirrored Bleed and Creep for PDF Production
-- **TN-002** — Independent Bleed Extension per Page Side
-- **TN-003** — Mathematical Scalability Beyond the Yet-Known Practical Limits of Prepress Production
+- [TN-001 – Innovative Construction of Mirrored Bleed and Creep for PDF Production](technical-notes/TN-001-Innovative-Construction-of-Mirrored-Bleed-and-Creep-for-PDF-Production.md)
+
+- [TN-002 – Independent Bleed Extension per Page Side](technical-notes/TN-002-Independent-Bleed-Extension-per-Page-Side.md)
+
+- [TN-003 – Mathematical Scalability Beyond the Yet-Known Practical Limits of Prepress Production](technical-notes/TN-003-Mathematical-Scalability-Beyond-the-Yet-Known-Practical-Limits-of-Prepress-Production.md)
 
 Additional Technical Notes will be released as the BleedMaster project evolves.
 
