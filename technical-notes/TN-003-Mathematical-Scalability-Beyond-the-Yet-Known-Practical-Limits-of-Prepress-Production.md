@@ -28,7 +28,7 @@ Consequently, all supported operating ranges have been selected to significantly
 
 ---
 
-# Supported Operating Ranges
+## Supported Operating Ranges
 
 The following operating ranges are fully supported by the BleedMaster engine.
 
@@ -41,7 +41,7 @@ These values represent validated engineering specifications and are intentionall
 
 ---
 
-## Mathematical Design
+# Mathematical Design
 
 The mathematical model implemented by BleedMaster is not constrained by the supported operating specification.
 
