@@ -1,6 +1,6 @@
 # BleedMaster Technical Notes
 
-This section contains the publicly released technical documentation for the BleedMaster project.
+This section contains the publicly released Technical documentation for the BleedMaster project.
 
 ## Available Publications
 
