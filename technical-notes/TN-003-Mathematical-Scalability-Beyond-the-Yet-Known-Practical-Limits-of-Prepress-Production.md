@@ -28,7 +28,7 @@ Consequently, all supported operating ranges have been selected to significantly
 
 ---
 
-### Supported Operating Ranges
+## Supported Operating Ranges
 
 The following operating ranges are fully supported by the BleedMaster engine.
 
