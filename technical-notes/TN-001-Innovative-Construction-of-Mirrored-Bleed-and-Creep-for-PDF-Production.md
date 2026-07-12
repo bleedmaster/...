@@ -90,9 +90,11 @@ This Technical Note serves as the first public documentation of the achieved res
 
 ---
 
-## Keywords
+#### Keywords
 
-**bleed generation**, **seamless bleed**, **corner continuity**, **mirrored bleed**, **scaling**, **stretching**, **mirroring**, **prepress**, **PDF production**, **RIP**, **CTP**
+> 
+
+bleed generation, seamless bleed, corner continuity, mirrored bleed, scaling, stretching, mirroring, prepress, PDF production, RIP, CTP
 
 ---
 
