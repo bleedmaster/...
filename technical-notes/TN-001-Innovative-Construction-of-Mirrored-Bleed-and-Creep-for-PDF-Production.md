@@ -22,7 +22,7 @@ Over many decades, numerous manual techniques, automated workflows and software 
 
 ---
 
-# The Long-Standing Limitation
+## The Long-Standing Limitation
 
 Although existing methods successfully extend image information beyond the trim edge, they all share a common visual limitation.
 
@@ -32,7 +32,7 @@ This limitation has existed throughout the history of modern graphic arts and ha
 
 ---
 
-# A New Result
+## A New Result
 
 BleedMaster introduces a fundamentally different approach.
 
@@ -48,15 +48,15 @@ The result is a continuous visual appearance beyond the trim edge while preservi
 
 ---
 
-# Validation
+## Validation
 
 The method has been successfully tested over an exceptionally wide operating range.
 
-## Validated Parameter Range
+### Validated Parameter Range
 
 * **0.1 mm** to **25,000 mm** per individual page side
 
-### Validated Scale Range
+#### Validated Scale Range
 
 * **0.00001 %** to **250,000 %**
 
@@ -64,7 +64,7 @@ The underlying concept is scalable beyond these tested limits.
 
 ---
 
-# Theoretical Scalability
+## Theoretical Scalability
 
 The underlying implementation is scale-independent.
 
@@ -74,7 +74,7 @@ Practical limits are determined only by software implementation, numerical preci
 
 ---
 
-# Technical Disclosure
+## Technical Disclosure
 
 This Technical Note documents the existence of the achieved result.
 
@@ -82,7 +82,7 @@ The underlying implementation, mathematical principles and implementation detail
 
 ---
 
-# Conclusion
+## Conclusion
 
 BleedMaster represents a new approach to a problem that has existed since the beginning of the graphic arts industry.
 
@@ -97,7 +97,7 @@ This Technical Note serves as the first public documentation of the achieved res
 
 ---
 
-## Disclaimer
+### Disclaimer
 
 This Technical Note documents the existence, validated engineering characteristics and published operating specifications of the described technology.
 
@@ -111,6 +111,6 @@ This publication is provided solely for scientific, technical and historical doc
 
 ---
 
-## Copyright
+### Copyright
 
-Copyright © 2026 Frank Würtz. All rights reserved.
+Copyright © 2026 Frank Wurtz. All rights reserved.
