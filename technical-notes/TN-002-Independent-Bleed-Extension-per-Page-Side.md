@@ -117,9 +117,11 @@ The introduction of asynchronous page-side processing significantly expands the 
 
 ---
 
-## Keywords
+#### Keywords
 
-**asynchronous bleed**, **independent bleed**, **asymmetric bleed**, **seamless bleed**, **corner continuity**, **strip-to-corner continuity**, **bleed generation**, **scaling**, **stretching**, **mirroring**, **prepress**, **PDF production**, **RIP**, **CTP**
+> 
+
+asynchronous bleed, independent bleed, asymmetric bleed, seamless bleed, corner continuity, strip-to-corner continuity, bleed generation, scaling, stretching, mirroring, prepress, PDF production, RIP, CTP
 
 ---
 
