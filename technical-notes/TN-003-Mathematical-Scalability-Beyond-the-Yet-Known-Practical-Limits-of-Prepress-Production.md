@@ -3,7 +3,7 @@
 ## Mathematical Scalability Beyond the Yet-Known Practical Limits of Prepress Production
 
 **Project:** BleedMaster  
-**Author:** Frank Würtz  
+**Author:** Frank Wurtz  
 **First publication:** July 2026  
 **Status:** Public  
 **Version:** 1.0
@@ -95,4 +95,4 @@ This publication is provided solely for scientific, technical and historical doc
 
 ### Copyright
 
-Copyright © 2026 Frank Würtz. All rights reserved.
+Copyright © 2026 Frank Wurtz. All rights reserved.
