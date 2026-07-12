@@ -8,7 +8,7 @@ This section contains the publicly released technical documentation of the Bleed
 
 - [TN-002 – Independent Bleed Extension per Page Side](TN-002-Independent-Bleed-Extension-per-Page-Side.md)
 
-- [TN-003-Mathematical-Scalability-Beyond-the-Yet-Known-Practical-Limits-of-Prepress-Production.md)
+- [TN-003 – Mathematical Scalability Beyond the Yet-Known Practical Limits of Prepress Production](TN-003-Mathematical-Scalability-Beyond-the-Yet-Known-Practical-Limits-of-Prepress-Production.md)
 
 More Technical Notes will be added over time.
 
