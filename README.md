@@ -55,7 +55,15 @@ Professional PDF prepress is primarily based on deterministic workflows, where i
 
 ---
 
-# Publicly Documented Engineering Achievements
+# Designed for continuous production
+
+Deploy a backup production system at half the cost. Every additional production license is available at 50% of the standard license price, helping to ensure uninterrupted production.
+
+**Because production should never stop due to a single hardware failure.**
+
+---
+
+## Publicly Documented Engineering Achievements
 
 The BleedMaster Technical Notes document a series of engineering developments addressing long-standing limitations in PDF prepress production.
 
