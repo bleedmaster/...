@@ -2,9 +2,9 @@
 
 ### Technical Notes on Deterministic Reproduction
 
-# Revolutionary Bleed Technology
+# Advanced Deterministic Bleed Technology
 
-The next generation of deterministic PDF prepress automation.
+## A new approach to PDF prepress automation
 
 PDF in.<br>
 PDF out.<br>
