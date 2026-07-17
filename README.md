@@ -6,10 +6,10 @@
 
 > ## A new approach to PDF prepress automation
 
-PDF in.<br>
-PDF out.<br>
+PDF in<br>
+PDF out<br>
 
-Built for RIP and CTP.
+Built for RIP and CTP
 
 ---
 
