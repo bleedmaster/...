@@ -47,6 +47,12 @@ Advanced.<br>
 
 ---
 
+> # Built on Experience
+> 
+> **BleedMaster is the result of more than three decades of hands-on experience across the entire graphic production chain—from technical drawing and prepress to production engineering, workflow optimization, software development, troubleshooting, and production management.**
+
+---
+
 ## Technical Notes
 
 The following Technical Notes are currently available:
